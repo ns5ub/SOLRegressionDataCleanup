@@ -1,0 +1,390 @@
+"Teacher Quality"
+4/26/2022
+
+Year,Level,Division,School,"Poverty Level","Title1 Code","Percent of Inexperienced Teachers","Percent of Out-of-Field Teachers","Percent of Out-of-Field and Inexperienced Teachers"
+"2020 - 2021",SCH,"Fairfax County Public Schools","Aldrin Elementary","Low Poverty","All Schools",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Aldrin Elementary","Low Poverty","Non-Title I",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Annandale High","Medium Poverty","All Schools",5.7,5.2,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Annandale High","Medium Poverty","Non-Title I",5.7,5.2,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Annandale Terrace Elementary","High Poverty","All Schools",11.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Annandale Terrace Elementary","High Poverty","Title I",11.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Archer Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Archer Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Armstrong Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Armstrong Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bailey's Elementary School for the Arts and Sciences","High Poverty","All Schools",4.9,3.7,1.2
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bailey's Elementary School for the Arts and Sciences","High Poverty","Title I",4.9,3.7,1.2
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bailey's Upper Elementary School for the Arts and Sciences","High Poverty","All Schools",11.5,8.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bailey's Upper Elementary School for the Arts and Sciences","High Poverty","Title I",11.5,8.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Beech Tree Elementary","Medium Poverty","All Schools",7.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Beech Tree Elementary","Medium Poverty","Title I",7.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Belle View Elementary","Medium Poverty","All Schools",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Belle View Elementary","Medium Poverty","Non-Title I",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Belvedere Elementary","Medium Poverty","All Schools",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Belvedere Elementary","Medium Poverty","Title I",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bonnie Brae Elementary","Low Poverty","All Schools",4.3,4.3,1.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bonnie Brae Elementary","Low Poverty","Non-Title I",4.3,4.3,1.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Braddock Elementary","High Poverty","All Schools",4.3,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Braddock Elementary","High Poverty","Title I",4.3,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bren Mar Park Elementary","Medium Poverty","All Schools",5.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bren Mar Park Elementary","Medium Poverty","Title I",5.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Brookfield Elementary","Medium Poverty","All Schools",5.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Brookfield Elementary","Medium Poverty","Title I",5.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bryant High","Medium Poverty","All Schools",0,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bryant High","Medium Poverty","Non-Title I",0,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bucknell Elementary","Medium Poverty","All Schools",10.5,2.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bucknell Elementary","Medium Poverty","Title I",10.5,2.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bull Run Elementary","Medium Poverty","All Schools",1.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bull Run Elementary","Medium Poverty","Non-Title I",1.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bush Hill Elementary","Low Poverty","All Schools",5.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Bush Hill Elementary","Low Poverty","Non-Title I",5.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Camelot Elementary","Medium Poverty","All Schools",5.7,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Camelot Elementary","Medium Poverty","Non-Title I",5.7,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cameron Elementary","Medium Poverty","All Schools",5.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cameron Elementary","Medium Poverty","Title I",5.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Canterbury Woods Elementary","Low Poverty","All Schools",6.6,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Canterbury Woods Elementary","Low Poverty","Non-Title I",6.6,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cardinal Forest Elementary","Low Poverty","All Schools",9.1,1.8,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cardinal Forest Elementary","Low Poverty","Non-Title I",9.1,1.8,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Carson Middle","Low Poverty","All Schools",2.9,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Carson Middle","Low Poverty","Non-Title I",2.9,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centre Ridge Elementary","Medium Poverty","All Schools",1.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centre Ridge Elementary","Medium Poverty","Title I",1.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centreville Elementary","Low Poverty","All Schools",6,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centreville Elementary","Low Poverty","Non-Title I",6,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centreville High","Low Poverty","All Schools",1.5,5.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Centreville High","Low Poverty","Non-Title I",1.5,5.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Chantilly High","Low Poverty","All Schools",3.1,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Chantilly High","Low Poverty","Non-Title I",3.1,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cherry Run Elementary","Low Poverty","All Schools",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cherry Run Elementary","Low Poverty","Non-Title I",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Chesterbrook Elementary","Low Poverty","All Schools",14,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Chesterbrook Elementary","Low Poverty","Non-Title I",14,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Churchill Road Elementary","Low Poverty","All Schools",9.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Churchill Road Elementary","Low Poverty","Non-Title I",9.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Clearview Elementary","Medium Poverty","All Schools",2.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Clearview Elementary","Medium Poverty","Title I",2.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Clermont Elementary","Low Poverty","All Schools",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Clermont Elementary","Low Poverty","Non-Title I",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Coates Elementary","Medium Poverty","All Schools",1.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Coates Elementary","Medium Poverty","Non-Title I",1.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Columbia Elementary","Medium Poverty","All Schools",4.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Columbia Elementary","Medium Poverty","Non-Title I",4.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Colvin Run Elementary","Low Poverty","All Schools",1.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Colvin Run Elementary","Low Poverty","Non-Title I",1.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cooper Middle","Low Poverty","All Schools",1.4,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cooper Middle","Low Poverty","Non-Title I",1.4,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Crestwood Elementary","High Poverty","All Schools",5.1,1.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Crestwood Elementary","High Poverty","Title I",5.1,1.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Crossfield Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Crossfield Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cub Run Elementary","Low Poverty","All Schools",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cub Run Elementary","Low Poverty","Non-Title I",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cunningham Park Elementary","Medium Poverty","All Schools",4.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Cunningham Park Elementary","Medium Poverty","Non-Title I",4.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Daniels Run Elementary","Medium Poverty","All Schools",2.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Daniels Run Elementary","Medium Poverty","Non-Title I",2.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Deer Park Elementary","Low Poverty","All Schools",3.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Deer Park Elementary","Low Poverty","Non-Title I",3.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Dogwood Elementary","High Poverty","All Schools",9.3,1.3,1.3
+"2020 - 2021",SCH,"Fairfax County Public Schools","Dogwood Elementary","High Poverty","Title I",9.3,1.3,1.3
+"2020 - 2021",SCH,"Fairfax County Public Schools","Dranesville Elementary","Medium Poverty","All Schools",3.1,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Dranesville Elementary","Medium Poverty","Non-Title I",3.1,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Eagle View Elementary","Low Poverty","All Schools",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Eagle View Elementary","Low Poverty","Non-Title I",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Edison High","Medium Poverty","All Schools",2.4,5.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Edison High","Medium Poverty","Non-Title I",2.4,5.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairfax High","Low Poverty","All Schools",3,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairfax High","Low Poverty","Non-Title I",3,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairfax Villa Elementary","Low Poverty","All Schools",5.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairfax Villa Elementary","Low Poverty","Non-Title I",5.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairhill Elementary","Low Poverty","All Schools",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairhill Elementary","Low Poverty","Non-Title I",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairview Elementary","Low Poverty","All Schools",6.8,1.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fairview Elementary","Low Poverty","Non-Title I",6.8,1.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Falls Church High","Medium Poverty","All Schools",1.7,6.3,0.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","Falls Church High","Medium Poverty","Non-Title I",1.7,6.3,0.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","Flint Hill Elementary","Low Poverty","All Schools",11.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Flint Hill Elementary","Low Poverty","Non-Title I",11.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Floris Elementary","Low Poverty","All Schools",6.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Floris Elementary","Low Poverty","Non-Title I",6.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forest Edge Elementary","Medium Poverty","All Schools",8.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forest Edge Elementary","Medium Poverty","Title I",8.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forestdale Elementary","Medium Poverty","All Schools",9.1,3.6,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forestdale Elementary","Medium Poverty","Title I",9.1,3.6,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forestville Elementary","Low Poverty","All Schools",8.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Forestville Elementary","Low Poverty","Non-Title I",8.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Belvoir Elementary","Medium Poverty","All Schools",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Belvoir Elementary","Medium Poverty","Non-Title I",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Belvoir Upper Elementary","Medium Poverty","All Schools",6.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Belvoir Upper Elementary","Medium Poverty","Non-Title I",6.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Hunt Elementary","Low Poverty","All Schools",3.6,5.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fort Hunt Elementary","Low Poverty","Non-Title I",3.6,5.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fox Mill Elementary","Low Poverty","All Schools",0,8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Fox Mill Elementary","Low Poverty","Non-Title I",0,8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Franconia Elementary","Low Poverty","All Schools",2.1,2.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Franconia Elementary","Low Poverty","Non-Title I",2.1,2.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Franklin Middle","Low Poverty","All Schools",4.3,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Franklin Middle","Low Poverty","Non-Title I",4.3,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Freedom Hill Elementary","Low Poverty","All Schools",10,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Freedom Hill Elementary","Low Poverty","Non-Title I",10,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Frost Middle","Low Poverty","All Schools",0,2.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Frost Middle","Low Poverty","Non-Title I",0,2.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Garfield Elementary","High Poverty","All Schools",9.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Garfield Elementary","High Poverty","Title I",9.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Glasgow Middle","High Poverty","All Schools",5.9,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Glasgow Middle","High Poverty","Non-Title I",5.9,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Glen Forest Elementary","High Poverty","All Schools",8.2,0.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Glen Forest Elementary","High Poverty","Title I",8.2,0.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Graham Road Elementary","High Poverty","All Schools",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Graham Road Elementary","High Poverty","Title I",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Great Falls Elementary","Low Poverty","All Schools",4.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Great Falls Elementary","Low Poverty","Non-Title I",4.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Greenbriar East Elementary","Low Poverty","All Schools",2.7,2.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Greenbriar East Elementary","Low Poverty","Non-Title I",2.7,2.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Greenbriar West Elementary","Low Poverty","All Schools",3.8,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Greenbriar West Elementary","Low Poverty","Non-Title I",3.8,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Groveton Elementary","High Poverty","All Schools",4.3,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Groveton Elementary","High Poverty","Title I",4.3,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Gunston Elementary","Medium Poverty","All Schools",6.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Gunston Elementary","Medium Poverty","Non-Title I",6.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Halley Elementary","Medium Poverty","All Schools",8.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Halley Elementary","Medium Poverty","Non-Title I",8.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Haycock Elementary","Low Poverty","All Schools",4.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Haycock Elementary","Low Poverty","Non-Title I",4.7,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hayfield Elementary","Low Poverty","All Schools",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hayfield Elementary","Low Poverty","Non-Title I",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hayfield Secondary","Low Poverty","All Schools",4.3,7.4,0.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hayfield Secondary","Low Poverty","Non-Title I",4.3,7.4,0.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon Elementary","Medium Poverty","All Schools",5,5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon Elementary","Medium Poverty","Title I",5,5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon High","Medium Poverty","All Schools",2.1,5.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon High","Medium Poverty","Non-Title I",2.1,5.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon Middle","Medium Poverty","All Schools",3.6,1.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Herndon Middle","Medium Poverty","Non-Title I",3.6,1.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hollin Meadows Elementary","Medium Poverty","All Schools",4.4,1.5,1.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hollin Meadows Elementary","Medium Poverty","Title I",4.4,1.5,1.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Holmes Middle","Medium Poverty","All Schools",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Holmes Middle","Medium Poverty","Non-Title I",2.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hughes Middle","Medium Poverty","All Schools",2.3,5.7,1.1
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hughes Middle","Medium Poverty","Non-Title I",2.3,5.7,1.1
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hunt Valley Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hunt Valley Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hunters Woods Elementary School for the Arts and Sciences","Low Poverty","All Schools",3.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hunters Woods Elementary School for the Arts and Sciences","Low Poverty","Non-Title I",3.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hutchison Elementary","High Poverty","All Schools",0.9,0.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hutchison Elementary","High Poverty","Title I",0.9,0.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hybla Valley Elementary","High Poverty","All Schools",9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Hybla Valley Elementary","High Poverty","Title I",9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Irving Middle","Low Poverty","All Schools",4.4,4.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Irving Middle","Low Poverty","Non-Title I",4.4,4.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Island Creek Elementary","Low Poverty","All Schools",6.3,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Island Creek Elementary","Low Poverty","Non-Title I",6.3,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Jackson Middle","Medium Poverty","All Schools",3.3,3.3,1.1
+"2020 - 2021",SCH,"Fairfax County Public Schools","Jackson Middle","Medium Poverty","Non-Title I",3.3,3.3,1.1
+"2020 - 2021",SCH,"Fairfax County Public Schools","Johnson Middle","Medium Poverty","All Schools",7.5,2.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Johnson Middle","Medium Poverty","Non-Title I",7.5,2.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Justice High","Medium Poverty","All Schools",3.4,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Justice High","Medium Poverty","Non-Title I",3.4,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Keene Mill Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Keene Mill Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kent Gardens Elementary","Low Poverty","All Schools",2.8,7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kent Gardens Elementary","Low Poverty","Non-Title I",2.8,7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Key Center","Medium Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Key Center","Medium Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Key Middle","Medium Poverty","All Schools",6.1,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Key Middle","Medium Poverty","Non-Title I",6.1,2.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kilmer Center","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kilmer Center","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kilmer Middle","Low Poverty","All Schools",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kilmer Middle","Low Poverty","Non-Title I",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kings Glen Elementary","Low Poverty","All Schools",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kings Glen Elementary","Low Poverty","Non-Title I",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kings Park Elementary","Low Poverty","All Schools",2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Kings Park Elementary","Low Poverty","Non-Title I",2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lake Anne Elementary","Medium Poverty","All Schools",1.8,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lake Anne Elementary","Medium Poverty","Non-Title I",1.8,5.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lake Braddock Secondary","Low Poverty","All Schools",2.6,4.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lake Braddock Secondary","Low Poverty","Non-Title I",2.6,4.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lane Elementary","Low Poverty","All Schools",7,3.5,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lane Elementary","Low Poverty","Non-Title I",7,3.5,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Langley High","Low Poverty","All Schools",1.5,5.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Langley High","Low Poverty","Non-Title I",1.5,5.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Laurel Hill Elementary","Low Poverty","All Schools",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Laurel Hill Elementary","Low Poverty","Non-Title I",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Laurel Ridge Elementary","Low Poverty","All Schools",4.3,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Laurel Ridge Elementary","Low Poverty","Non-Title I",4.3,7.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lees Corner Elementary","Low Poverty","All Schools",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lees Corner Elementary","Low Poverty","Non-Title I",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lemon Road Elementary","Low Poverty","All Schools",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lemon Road Elementary","Low Poverty","Non-Title I",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lewis High","Medium Poverty","All Schools",1.3,5.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lewis High","Medium Poverty","Non-Title I",1.3,5.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Liberty Middle","Medium Poverty","All Schools",2.1,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Liberty Middle","Medium Poverty","Non-Title I",2.1,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Little Run Elementary","Low Poverty","All Schools",2.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Little Run Elementary","Low Poverty","Non-Title I",2.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","London Towne Elementary","Medium Poverty","All Schools",1.3,10.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","London Towne Elementary","Medium Poverty","Title I",1.3,10.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Longfellow Middle","Low Poverty","All Schools",5.3,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Longfellow Middle","Low Poverty","Non-Title I",5.3,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lorton Station Elementary","Medium Poverty","All Schools",1.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lorton Station Elementary","Medium Poverty","Non-Title I",1.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lynbrook Elementary","High Poverty","All Schools",4.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Lynbrook Elementary","High Poverty","Title I",4.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Madison High","Low Poverty","All Schools",5,5,2.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Madison High","Low Poverty","Non-Title I",5,5,2.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mantua Elementary","Low Poverty","All Schools",1.3,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mantua Elementary","Low Poverty","Non-Title I",1.3,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Marshall High","Low Poverty","All Schools",0.6,3.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Marshall High","Low Poverty","Non-Title I",0.6,3.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Marshall Road Elementary","Low Poverty","All Schools",4.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Marshall Road Elementary","Low Poverty","Non-Title I",4.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mason Crest Elementary","Medium Poverty","All Schools",3.1,1.6,1.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mason Crest Elementary","Medium Poverty","Non-Title I",3.1,1.6,1.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","McLean High","Low Poverty","All Schools",2.5,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","McLean High","Low Poverty","Non-Title I",2.5,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","McNair Elementary","Low Poverty","All Schools",7.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","McNair Elementary","Low Poverty","Non-Title I",7.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mosaic Elementary","Low Poverty","All Schools",2.7,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mosaic Elementary","Low Poverty","Non-Title I",2.7,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Eagle Elementary","Medium Poverty","All Schools",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Eagle Elementary","Medium Poverty","Title I",4.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Vernon High","Medium Poverty","All Schools",3.2,10.3,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Vernon High","Medium Poverty","Non-Title I",3.2,10.3,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Vernon Woods Elementary","High Poverty","All Schools",1.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mount Vernon Woods Elementary","High Poverty","Title I",1.5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mountain View High","Medium Poverty","All Schools",0,5.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Mountain View High","Medium Poverty","Non-Title I",0,5.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Navy Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Navy Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Newington Forest Elementary","Low Poverty","All Schools",4.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Newington Forest Elementary","Low Poverty","Non-Title I",4.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","North Springfield Elementary","Medium Poverty","All Schools",5.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","North Springfield Elementary","Medium Poverty","Non-Title I",5.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oak Hill Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oak Hill Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oak View Elementary","Low Poverty","All Schools",1.6,3.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oak View Elementary","Low Poverty","Non-Title I",1.6,3.2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oakton Elementary","Low Poverty","All Schools",10,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oakton Elementary","Low Poverty","Non-Title I",10,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oakton High","Low Poverty","All Schools",3.8,3.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Oakton High","Low Poverty","Non-Title I",3.8,3.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Olde Creek Elementary","Low Poverty","All Schools",13.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Olde Creek Elementary","Low Poverty","Non-Title I",13.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Orange Hunt Elementary","Low Poverty","All Schools",2.9,4.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Orange Hunt Elementary","Low Poverty","Non-Title I",2.9,4.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Parklawn Elementary","High Poverty","All Schools",8.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Parklawn Elementary","High Poverty","Title I",8.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Pine Spring Elementary","Medium Poverty","All Schools",12.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Pine Spring Elementary","Medium Poverty","Title I",12.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Poe Middle","High Poverty","All Schools",5,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Poe Middle","High Poverty","Title I",5,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Poplar Tree Elementary","Low Poverty","All Schools",0,3.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Poplar Tree Elementary","Low Poverty","Non-Title I",0,3.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Powell Elementary","Low Poverty","All Schools",1.4,2.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Powell Elementary","Low Poverty","Non-Title I",1.4,2.7,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Providence Elementary","Medium Poverty","All Schools",3.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Providence Elementary","Medium Poverty","Title I",3.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Ravensworth Elementary","Low Poverty","All Schools",7.8,11.8,3.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","Ravensworth Elementary","Low Poverty","Non-Title I",7.8,11.8,3.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","Riverside Elementary","High Poverty","All Schools",7.7,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Riverside Elementary","High Poverty","Title I",7.7,1.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Robinson Secondary","Low Poverty","All Schools",1.5,4.8,0.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Robinson Secondary","Low Poverty","Non-Title I",1.5,4.8,0.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rocky Run Middle","Low Poverty","All Schools",2.5,6.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rocky Run Middle","Low Poverty","Non-Title I",2.5,6.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rolling Valley Elementary","Low Poverty","All Schools",1.9,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rolling Valley Elementary","Low Poverty","Non-Title I",1.9,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rose Hill Elementary","Medium Poverty","All Schools",5.7,10,1.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Rose Hill Elementary","Medium Poverty","Non-Title I",5.7,10,1.4
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sandburg Middle","Medium Poverty","All Schools",3.2,0.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sandburg Middle","Medium Poverty","Non-Title I",3.2,0.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sangster Elementary","Low Poverty","All Schools",1.5,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sangster Elementary","Low Poverty","Non-Title I",1.5,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Saratoga Elementary","Medium Poverty","All Schools",4.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Saratoga Elementary","Medium Poverty","Non-Title I",4.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sherman Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sherman Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Shrevewood Elementary","Low Poverty","All Schools",0,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Shrevewood Elementary","Low Poverty","Non-Title I",0,1.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Silverbrook Elementary","Low Poverty","All Schools",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Silverbrook Elementary","Low Poverty","Non-Title I",3.4,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sleepy Hollow Elementary","Medium Poverty","All Schools",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sleepy Hollow Elementary","Medium Poverty","Title I",2.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","South County High","Low Poverty","All Schools",1.9,7.1,0.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","South County High","Low Poverty","Non-Title I",1.9,7.1,0.6
+"2020 - 2021",SCH,"Fairfax County Public Schools","South County Middle","Low Poverty","All Schools",2.5,3.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","South County Middle","Low Poverty","Non-Title I",2.5,3.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","South Lakes High","Low Poverty","All Schools",5.7,5.3,1.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","South Lakes High","Low Poverty","Non-Title I",5.7,5.3,1.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","Spring Hill Elementary","Low Poverty","All Schools",0,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Spring Hill Elementary","Low Poverty","Non-Title I",0,1.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Springfield Estates Elementary","Medium Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Springfield Estates Elementary","Medium Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stenwood Elementary","Low Poverty","All Schools",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stenwood Elementary","Low Poverty","Non-Title I",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stone Middle","Medium Poverty","All Schools",4.7,6.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stone Middle","Medium Poverty","Non-Title I",4.7,6.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stratford Landing Elementary","Low Poverty","All Schools",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Stratford Landing Elementary","Low Poverty","Non-Title I",3.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sunrise Valley Elementary","Low Poverty","All Schools",1.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Sunrise Valley Elementary","Low Poverty","Non-Title I",1.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Terra Centre Elementary","Low Poverty","All Schools",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Terra Centre Elementary","Low Poverty","Non-Title I",1.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Terraset Elementary","Medium Poverty","All Schools",6.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Terraset Elementary","Medium Poverty","Non-Title I",6.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Thomas Jefferson High for Science and Technology","Low Poverty","All Schools",1.6,0.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Thomas Jefferson High for Science and Technology","Low Poverty","Non-Title I",1.6,0.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Thoreau Middle","Low Poverty","All Schools",2,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Thoreau Middle","Low Poverty","Non-Title I",2,2,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Timber Lane Elementary","Medium Poverty","All Schools",15.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Timber Lane Elementary","Medium Poverty","Title I",15.6,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Twain Middle","Medium Poverty","All Schools",5.6,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Twain Middle","Medium Poverty","Non-Title I",5.6,1.1,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Union Mill Elementary","Low Poverty","All Schools",2.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Union Mill Elementary","Low Poverty","Non-Title I",2.9,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Vienna Elementary","Low Poverty","All Schools",8.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Vienna Elementary","Low Poverty","Non-Title I",8.1,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Virginia Run Elementary","Medium Poverty","All Schools",1.8,1.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Virginia Run Elementary","Medium Poverty","Non-Title I",1.8,1.8,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Wakefield Forest Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Wakefield Forest Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Waples Mill Elementary","Low Poverty","All Schools",4.2,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Waples Mill Elementary","Low Poverty","Non-Title I",4.2,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Washington Mill Elementary","Medium Poverty","All Schools",3.5,14,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Washington Mill Elementary","Medium Poverty","Title I",3.5,14,1.8
+"2020 - 2021",SCH,"Fairfax County Public Schools","Waynewood Elementary","Low Poverty","All Schools",7.7,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Waynewood Elementary","Low Poverty","Non-Title I",7.7,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Potomac High","Medium Poverty","All Schools",1.4,5.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Potomac High","Medium Poverty","Non-Title I",1.4,5.3,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Springfield Elementary","Low Poverty","All Schools",5.6,3.7,1.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Springfield Elementary","Low Poverty","Non-Title I",5.6,3.7,1.9
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Springfield High","Low Poverty","All Schools",3,6.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","West Springfield High","Low Poverty","Non-Title I",3,6.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westbriar Elementary","Low Poverty","All Schools",3.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westbriar Elementary","Low Poverty","Non-Title I",3.2,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westfield High","Low Poverty","All Schools",3.1,6.7,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westfield High","Low Poverty","Non-Title I",3.1,6.7,0.5
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westgate Elementary","Low Poverty","All Schools",3.8,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westgate Elementary","Low Poverty","Non-Title I",3.8,1.9,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westlawn Elementary","Medium Poverty","All Schools",5.1,2.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Westlawn Elementary","Medium Poverty","Title I",5.1,2.5,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Weyanoke Elementary","High Poverty","All Schools",6.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Weyanoke Elementary","High Poverty","Title I",6.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","White Oaks Elementary","Low Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","White Oaks Elementary","Low Poverty","Non-Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Whitman Middle","Medium Poverty","All Schools",4.6,4.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Whitman Middle","Medium Poverty","Non-Title I",4.6,4.6,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Willow Springs Elementary","Low Poverty","All Schools",4.3,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Willow Springs Elementary","Low Poverty","Non-Title I",4.3,1.4,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Wolftrap Elementary","Low Poverty","All Schools",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Wolftrap Elementary","Low Poverty","Non-Title I",2.3,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodburn Elementary","High Poverty","All Schools",5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodburn Elementary","High Poverty","Title I",5,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodlawn Elementary","Medium Poverty","All Schools",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodlawn Elementary","Medium Poverty","Title I",0,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodley Hills Elementary","High Poverty","All Schools",1.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodley Hills Elementary","High Poverty","Title I",1.8,0,0
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodson High","Low Poverty","All Schools",3.7,8.6,1.1
+"2020 - 2021",SCH,"Fairfax County Public Schools","Woodson High","Low Poverty","Non-Title I",3.7,8.6,1.1
